@@ -1,30 +1,30 @@
-### Hi there 👋
-
-<div align="center">
-
-## Gennaro Balenzano (Gennaro-B)**
-
-from.Dot.To.Dev
-
-[![](https://img.shields.io/badge/-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://www.facebook.com/gennaro.balenzano/)
-[![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://www.instagram.com/gennarobalenzano/)
-[![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/gennarobalenzano/)
-[![](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc)](https://t.me/GennaroBalenzano)
+<div style="text-align: center; ">
+<img src="https://media1.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=790b761161c3e614c6f47e6ef68be7caa8b3d305737782bd&rid=giphy.gif&ct=g" width="100" height="100" alt="Hello World" />
 </div>
+<hr>
 
-[![Codewars](https://www.codewars.com/users/Gennaro-B/badges/small)](https://www.codewars.com/users/Gennaro-B/badges/small)
 
-<!--
-**Gennaro-B/Gennaro-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p style="text-align: center"> My name is <b>Gennaro Balenzano</b> and I am a <b>Junior Developer</b> with multiple passions. Technology, Design and Photography with a secret dream.</p>
+
+<p style="text-align: center">
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+
+<hr>
+
+### Project - 🔨Work in progress🔨
+
+Stay Tuned
+https://github.com/baleDevIt/Gennaro-B.git
+<hr>
+
+### Version Control
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
