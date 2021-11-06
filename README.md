@@ -29,3 +29,7 @@ Stay Tuned
 
 ### Version Control
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+
+<hr>
+
+[![Codewars](https://www.codewars.com/users/Gennaro-B/badges/small)](https://www.codewars.com/users/Gennaro-B/badges/small)
