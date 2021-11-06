@@ -1,4 +1,4 @@
-<div style="text-align: center; ">
+<div align="center"">
 <img src="https://media1.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=790b761161c3e614c6f47e6ef68be7caa8b3d305737782bd&rid=giphy.gif&ct=g" width="100" height="100" alt="Hello World" />
 </div>
 <hr>
@@ -6,9 +6,9 @@
 
 
 
-<p style="text-align: center"> My name is <b>Gennaro Balenzano</b> and I am a <b>Junior Developer</b> with multiple passions. Technology, Design and Photography with a secret dream.</p>
+<p align="center"> My name is <b>Gennaro Balenzano</b> and I am a <b>Junior Developer</b> with multiple passions. Technology, Design and Photography with a secret dream.</p>
 
-<p style="text-align: center">
+<p align="center">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
