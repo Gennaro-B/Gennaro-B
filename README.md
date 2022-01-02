@@ -20,7 +20,7 @@
 
 <hr>
 
-### Project - 🔨Work in progress🔨
+### Project 
 
 Javascript-idea-project - https://github.com/baleDevIt/Javascript-Project-Idea 
 
