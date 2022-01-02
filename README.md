@@ -22,7 +22,7 @@
 
 ### Project - 🔨Work in progress🔨
 
-Stay Tuned
+Javascript-idea-project - https://github.com/baleDevIt/Javascript-Project-Idea 
 
 
 <hr>
