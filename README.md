@@ -32,10 +32,10 @@ Un geek a tutto tondo. Pensatore strategico e risolutore di problemi. Appassiona
 ## Badges
 
 <b>My GitHub Stats</b>
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=baleDevIt&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baleDevit&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="http://www.github.com/baleDevIt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=baleDevIt&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/baleDevIt"><img src="https://activity-graph.herokuapp.com/graph?username=baleDevIt&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 </div>
 
