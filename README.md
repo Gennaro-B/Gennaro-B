@@ -5,7 +5,7 @@
 👋 Ciao! Sono Gennaro, sviluppatore, appassionato di tecnologia e fotografia. Nel mio attuale lavoro ho l'opportunità di collaborare con un team eccezionale e sono sempre entusiasta di apprendere nuove tecnologie e abbracciare nuove sfide.
 </br>
 </br>
-🌟 Nel mio tempo libero, amo contribuire alla comunità open source, e ho creato alcuni progetti che sono ora disponibili su GitHub. Mi piace mettere a disposizione le mie conoscenze collaborando con altri colleghi per creare la tecnologia che abbia il potenziale per migliorare il mondo. 
+🌟 Nel mio tempo libero, amo contribuire alla comunità open source, e ho creato alcuni progetti che sono ora disponibili su GitHub. Mi piace mettere a disposizione le mie conoscenze collaborando con altri fantastici colleghi per creare qualcosa di unico. 
 </br>
 </br>
 <ul>
