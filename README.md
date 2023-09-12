@@ -7,12 +7,7 @@
 </br>
 🌟 Nel mio tempo libero, amo contribuire alla comunità open source, e ho creato alcuni progetti che sono ora disponibili su GitHub. Mi piace mettere a disposizione le mie conoscenze collaborando con altri fantastici colleghi per creare qualcosa di unico. 
 </br>
-</br>
-<ul>
-  <li>🌍  Based in Italy</li>
-  <li>🖥️  See my portfolio at [gbale.it](http://www.gbale.it)</li>
-  <li>✉️  You can contact me at [bale.devit@gmail.com](mailto:bale.devit@gmail.com)</li>
-</ul>
+
 
  
 <div align="center">
